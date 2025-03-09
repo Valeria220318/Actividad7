@@ -39,4 +39,3 @@ class KitsRobotica extends Model
     }
 }
 
-
